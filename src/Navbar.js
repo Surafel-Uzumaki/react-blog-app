@@ -12,6 +12,9 @@ const Navbar = () => {
           <li className="text-gray-800 hover:text-blue-600 cursor-pointer">
             Create
           </li>
+          <li className="text-gray-800 hover:text-blue-600 cursor-pointer">
+            View Blog
+          </li>
         </ul>
       </div>
     </div>
